@@ -106,4 +106,4 @@ GitHub: [@Deba-Nick](https://github.com/Deba-Nick)
 
 ---
 
-Let me know if you'd like a shorter version, a version tailored for a job application, or to include visual output examples like graphs or confusion matrices.
+
