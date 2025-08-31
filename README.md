@@ -102,10 +102,14 @@ Credit-Prediction-Project/
 ## 👤 Author
 
 **Deba-Nick**  
-GitHub: [@Deba-Nick](https://github.com/Deba-Nick)\n
+GitHub: [@Deba-Nick](https://github.com/Deba-Nick)
+
+
+
 **MahamadSahjad**
 GitHub: [@MahamadSahjad](https://github.com/MahamadSahjad)
 ---
+
 
 
 
